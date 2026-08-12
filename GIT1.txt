@@ -1,1 +1,7 @@
 Hi
+Hello
+Welcome
+To
+My
+Practice
+Repository
