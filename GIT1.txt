@@ -5,3 +5,10 @@ To
 My
 Practice
 Repository
+This
+is
+only
+for
+practicing
+Git
+commands
